@@ -9,7 +9,7 @@ https://www.ilovepdf.com/ru/word_to_pdf
 
 12 практическая https://mirea.ninja/t/informatika-12-prakticheskaya-ctrl-c/2532
 
-### Некоторые части практик (подробнее https://vk.com/@ivanovvor)
+### Некоторые части практик (подробнее: https://vk.com/@ivanovvor)
 https://programforyou.ru/calculators/postroenie-tablitci-istinnosti-sknf-sdnf
 
 ![image](https://github.com/mireashik/inf_1sem/assets/123753819/872ebbb9-4c09-4861-bbc5-99e8ce60c6f1)
