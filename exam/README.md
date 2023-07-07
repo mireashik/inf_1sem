@@ -20,3 +20,11 @@
 
 ![image](https://github.com/mireashik/inf_1sem/assets/123753819/274df4e3-c4e7-49f8-b2e2-67a7ef48e4fe)
 
+![image](https://github.com/mireashik/inf_1sem/assets/123753819/f8fc1a65-e2df-4594-afc0-589c23b29b6f)
+
+![image](https://github.com/mireashik/inf_1sem/assets/123753819/18b61f8d-1482-412e-8dc5-fe47d917efd8)
+
+### Чуть-чуть из ЕГЭ
+![image](https://github.com/mireashik/inf_1sem/assets/123753819/6f62e03d-0b77-487a-913d-bd2f1ce359f0)
+
+![image](https://github.com/mireashik/inf_1sem/assets/123753819/b58b5891-f1c1-4687-bc5b-453f705d91bb)
