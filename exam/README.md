@@ -15,3 +15,5 @@
 ![image](https://github.com/mireashik/inf_1sem/assets/123753819/a8896736-344d-4794-8d53-8a052abe82f6)
 
 ![image](https://github.com/mireashik/inf_1sem/assets/123753819/90a01001-5a83-444e-a381-b49e8cb1f9d6)
+
+![image](https://github.com/mireashik/inf_1sem/assets/123753819/08506b2d-6eb3-4e2f-ae45-d156889735d0)
