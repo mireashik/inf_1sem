@@ -37,3 +37,10 @@ https://programforyou.ru/calculators/postroenie-tablitci-istinnosti-sknf-sdnf
 ![image](https://github.com/mireashik/inf_1sem/assets/123753819/124a96e2-b60b-41dc-bea4-54d007a0ef26)
 
 ![image](https://github.com/mireashik/inf_1sem/assets/123753819/06846e27-7674-4d5e-ab45-0fa698ca0a74)
+
+![image](https://github.com/mireashik/inf_1sem/assets/123753819/6282b296-b697-4e90-8817-43cd6a8bd485)
+
+![image](https://github.com/mireashik/inf_1sem/assets/123753819/0b370128-ea8c-4d7d-b4d4-b399c1fef759)
+
+![image](https://github.com/mireashik/inf_1sem/assets/123753819/a3bf676d-4fc3-43b8-80b2-4742c093d9f9)
+
