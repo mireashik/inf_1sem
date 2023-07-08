@@ -69,6 +69,11 @@
 
 ![image](https://github.com/mireashik/inf_1sem/assets/123753819/386a2363-065a-4986-a05a-ce2bf66bef63)
 
+### 15. Счётчик
+![image](https://github.com/mireashik/inf_1sem/assets/123753819/fd33f9b6-2d8e-482c-93f7-ef342d614b90)
+
+
+
 ### Чуть-чуть из ЕГЭ
 ![image](https://github.com/mireashik/inf_1sem/assets/123753819/6f62e03d-0b77-487a-913d-bd2f1ce359f0)
 
