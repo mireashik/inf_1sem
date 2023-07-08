@@ -53,6 +53,22 @@
 
 ![image](https://github.com/mireashik/inf_1sem/assets/123753819/69b3538f-6af5-414c-9929-0a58baf5dbb4)
 
+### Тренировочный тест
+![image](https://github.com/mireashik/inf_1sem/assets/123753819/ff977116-790a-4acb-b7f1-05257b8f98d0)
+
+![image](https://github.com/mireashik/inf_1sem/assets/123753819/20af8d32-7e8e-4eb7-b12b-cddfa4acc258)
+
+### 14. Регистры
+![image](https://github.com/mireashik/inf_1sem/assets/123753819/a2c9dc01-27f8-4650-b9e2-8ceb8445bbcd)
+
+![image](https://github.com/mireashik/inf_1sem/assets/123753819/db9faedc-96e9-4425-88a4-6edf6365fa40)
+
+![image](https://github.com/mireashik/inf_1sem/assets/123753819/6d77deb7-f2d8-4ff2-b3b1-971d869eb53f)
+
+![image](https://github.com/mireashik/inf_1sem/assets/123753819/68dc5309-9680-4251-ba15-b47b104e7f33)
+
+![image](https://github.com/mireashik/inf_1sem/assets/123753819/386a2363-065a-4986-a05a-ce2bf66bef63)
+
 ### Чуть-чуть из ЕГЭ
 ![image](https://github.com/mireashik/inf_1sem/assets/123753819/6f62e03d-0b77-487a-913d-bd2f1ce359f0)
 
