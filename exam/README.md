@@ -58,6 +58,19 @@
 
 ![image](https://github.com/mireashik/inf_1sem/assets/123753819/20af8d32-7e8e-4eb7-b12b-cddfa4acc258)
 
+### 11. Сумматоры
+![image](https://github.com/mireashik/inf_1sem/assets/49165758/991d6505-a63d-41ef-8ba5-efe4ab7e08cf)
+
+![image](https://github.com/mireashik/inf_1sem/assets/49165758/17cabe0e-7b9b-4cf2-a311-644898b84ffb)
+
+![image](https://github.com/mireashik/inf_1sem/assets/49165758/473368da-6ebf-4a13-8de2-e34f87d5cf62)
+
+![image](https://github.com/mireashik/inf_1sem/assets/49165758/4d34be15-6400-4e98-8878-0d205c35b2bb)
+
+![image](https://github.com/mireashik/inf_1sem/assets/49165758/cbc7c89f-2ca6-4800-9c46-148700117673)
+
+![image](https://github.com/mireashik/inf_1sem/assets/49165758/5eba5b08-ffee-42e2-86e7-e3f9731191ad)
+
 ### 14. Регистры
 ![image](https://github.com/mireashik/inf_1sem/assets/123753819/a2c9dc01-27f8-4650-b9e2-8ceb8445bbcd)
 
@@ -75,6 +88,23 @@
 ![image](https://github.com/mireashik/inf_1sem/assets/49165758/5cb9bc2b-dee5-4686-8378-bc41101e4077)
 
 ![image](https://github.com/mireashik/inf_1sem/assets/49165758/53b17c15-8865-4e4e-aa13-1ef66e810f14)
+
+### Варианты
+![image](https://github.com/mireashik/inf_1sem/assets/49165758/1271a5c6-3275-4f36-90d5-cb1fcf3e1e04)
+
+![image](https://github.com/mireashik/inf_1sem/assets/49165758/534fabe0-49d4-4a70-bab5-09944500ff8f)
+
+![image](https://github.com/mireashik/inf_1sem/assets/49165758/823ff3ad-0173-45f7-9181-14cacb6eebb4)
+
+![image](https://github.com/mireashik/inf_1sem/assets/49165758/a7bab486-cd6c-46cc-a380-6b0840a1dbcc)
+
+![image](https://github.com/mireashik/inf_1sem/assets/49165758/8fa9b3cf-1019-4487-9f90-7f80ecdf1d06)
+
+![image](https://github.com/mireashik/inf_1sem/assets/49165758/6dd1a62d-6c96-47f1-a324-520450f69ac4)
+
+![image](https://github.com/mireashik/inf_1sem/assets/49165758/bf0a8698-faaa-4972-b49c-38ac586fd425)
+
+![image](https://github.com/mireashik/inf_1sem/assets/49165758/602b0037-4b7f-42e5-badb-7df4590b5c85)
 
 ### Чуть-чуть из ЕГЭ
 ![image](https://github.com/mireashik/inf_1sem/assets/123753819/6f62e03d-0b77-487a-913d-bd2f1ce359f0)
