@@ -74,6 +74,7 @@
 
 ![image](https://github.com/mireashik/inf_1sem/assets/49165758/5cb9bc2b-dee5-4686-8378-bc41101e4077)
 
+![image](https://github.com/mireashik/inf_1sem/assets/49165758/53b17c15-8865-4e4e-aa13-1ef66e810f14)
 
 ### Чуть-чуть из ЕГЭ
 ![image](https://github.com/mireashik/inf_1sem/assets/123753819/6f62e03d-0b77-487a-913d-bd2f1ce359f0)
