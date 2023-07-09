@@ -106,6 +106,12 @@
 
 ![image](https://github.com/mireashik/inf_1sem/assets/49165758/602b0037-4b7f-42e5-badb-7df4590b5c85)
 
+![image](https://github.com/mireashik/inf_1sem/assets/49165758/2fcff8d1-460e-4861-a930-4dd5db202269)
+
+![image](https://github.com/mireashik/inf_1sem/assets/49165758/fc928eab-4043-4e15-bd1c-9ba613a53d12)
+
+![image](https://github.com/mireashik/inf_1sem/assets/49165758/4d1432bd-6a8c-43a3-9f89-d544700bff71)
+
 ### Чуть-чуть из ЕГЭ
 ![image](https://github.com/mireashik/inf_1sem/assets/123753819/6f62e03d-0b77-487a-913d-bd2f1ce359f0)
 
