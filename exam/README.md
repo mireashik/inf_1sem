@@ -72,6 +72,7 @@
 ### 15. Счётчик
 ![image](https://github.com/mireashik/inf_1sem/assets/123753819/fd33f9b6-2d8e-482c-93f7-ef342d614b90)
 
+![image](https://github.com/mireashik/inf_1sem/assets/49165758/5cb9bc2b-dee5-4686-8378-bc41101e4077)
 
 
 ### Чуть-чуть из ЕГЭ
